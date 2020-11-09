@@ -23,7 +23,7 @@ Training
 
 Result
 --------
-**To qualitatively measure the proposed MCNet, three evaluation methods are employed to verify the effectiveness of the algorithm, including  peak signal-to-noise ratio (PSNR), structural similarity (SSIM), and spectral angle mapping (SAM).**
+**To qualitatively measure the proposed MCNet, three evaluation methods are employed to verify the effectiveness of the algorithm, including  Peak Signal-to-Noise Ratio (PSNR), Structural SIMilarity (SSIM), and Spectral Angle Mapper (SAM).**
 
 
 | Scale  |  CAVE |  Harvard |  Pavia Centre |
