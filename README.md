@@ -32,6 +32,19 @@ Result
 |  x3 |  41.345 / 0.9527 / 2.789  |  42.783 / 0.9633 / 2.180 | 31.230 / 0.8690 / 4.650  |   
 |  x4 | 41.345 / 0.9322 / 3.243 |  40.211 / 0.9374 / 2.384 | 28.912 / 0.7786 / 5.534  | 
 
+Citation 
+--------
+**Please consider cite this paper if you find it helpful.**
+
+@article{li2020exp,
+
+	title={Exploring the Relationship between 2D/3D Convolution for Hyperspectral Image Super-Resolution},
+	author={Q. Li, Q. Wang, and X. Li},
+	journal={ IEEE Transactions on Geoscience and Remote Sensing},
+	year={2020}
+	}
+  
+--------
 --------
 If you has any questions, please send e-mail to liqmges@gmail.com.
 
