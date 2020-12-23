@@ -1,6 +1,6 @@
 ERCSR
 ======
-**This is an implementation of  Exploring the Relationship between 2D/3D Convolution for Hyperspectral Image Super-Resolution. We will upload the code for the algorithm to GitHub later.**
+**This is an implementation of  Exploring the Relationship between 2D/3D Convolution for Hyperspectral Image Super-Resolution.**
 
 Dataset
 ------
