@@ -41,7 +41,8 @@ Citation
 	title={Exploring the Relationship between 2D/3D Convolution for Hyperspectral Image Super-Resolution},
 	author={Q. Li, Q. Wang, and X. Li},
 	journal={ IEEE Transactions on Geoscience and Remote Sensing},
-	year={2020}
+	year={2020},
+	doi={10.1109/TGRS.2020.3047363}
 	}
   
 --------
