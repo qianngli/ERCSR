@@ -4,7 +4,7 @@ parser = argparse.ArgumentParser(description="Super-Resolution")
 parser.add_argument("--upscale_factor", default=2, type=int, help="super resolution upscale factor")
 parser.add_argument('--seed', type=int, default=1,  help='random seed (default: 1)')
 parser.add_argument("--batchSize", type=int, default=12, help="training batch size")
-parser.add_argument("--nEpochs", type=int, default=200, help="maximum number of epochs to train")
+parser.add_argument("--nEpochs", type=int, default=85, help="maximum number of epochs to train")
 parser.add_argument("--show", action="store_true", help="show Tensorboard")
 
 parser.add_argument("--lr", type=int, default=1e-4, help="lerning rate")
